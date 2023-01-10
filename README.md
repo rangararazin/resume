@@ -1,3 +1,3 @@
-#Resume
+# Resume
 
-#This simple project is creating using React and styled with Tailwind CSS
+# This simple project is creating using React and styled with Tailwind CSS
